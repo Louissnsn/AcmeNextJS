@@ -23,7 +23,6 @@ export default function Page() {
             </a>
             , brought to you by Vercel.
           </p>
-          {/* Juste en dessous et commenté = Tailwind CSS */}
           {/* <div className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent" /> */}
           <div className={styles.shape} />
           <Link
